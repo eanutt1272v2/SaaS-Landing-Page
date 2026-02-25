@@ -5,7 +5,7 @@ This project is a modern and clean landing page designed for a SaaS product. It 
 ## Features
 
 -   **Responsive Design**: Adapts seamlessly to various screen sizes and devices.
--   **Interactive Components**: Utilises `framer-motion` for engaging animations and transitions.
+-   **Interactive Components**: Utilizes `framer-motion` for engaging animations and transitions.
 -   **Modular Structure**: Organized into reusable components and sections for easy maintenance and scalability.
 -   **Modern UI**: Clean and contemporary design with `TailwindCSS` for rapid styling.
 -   **TypeScript**: Enhances code quality and developer experience with static type checking.
@@ -19,7 +19,7 @@ This project is a modern and clean landing page designed for a SaaS product. It 
 -   **Framer Motion**: A powerful animation library for React.
 -   **clsx**: A tiny utility for constructing `className` strings conditionally.
 
-## Up and Running
+## Getting Started
 
 To get this project up and running on your local machine, follow these steps:
 
@@ -68,4 +68,4 @@ SaaS-Landing-Page/
 
 ## License
 
-Distributed under the MIT License. See LICENSE for more information.
+This project is open-source and available under the MIT License.
