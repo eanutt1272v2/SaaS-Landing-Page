@@ -19,7 +19,7 @@ This project is a modern and clean landing page designed for a SaaS product. It 
 -   **Framer Motion**: A powerful animation library for React.
 -   **clsx**: A tiny utility for constructing `className` strings conditionally.
 
-## Getting Started
+## Up and Running
 
 To get this project up and running on your local machine, follow these steps:
 
