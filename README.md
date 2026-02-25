@@ -68,4 +68,4 @@ SaaS-Landing-Page/
 
 ## License
 
-This project is open-source and available under the MIT License.
+Distributed under the MIT License. See LICENSE for more information.
