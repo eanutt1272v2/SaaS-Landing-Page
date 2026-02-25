@@ -5,8 +5,8 @@ This project is a modern and clean landing page designed for a SaaS product. It 
 ## Features
 
 -   **Responsive Design**: Adapts seamlessly to various screen sizes and devices.
--   **Interactive Components**: Utilizes `framer-motion` for engaging animations and transitions.
--   **Modular Structure**: Organized into reusable components and sections for easy maintenance and scalability.
+-   **Interactive Components**: Utilises `framer-motion` for engaging animations and transitions.
+-   **Modular Structure**: Organised into reusable components and sections for easy maintenance and scalability.
 -   **Modern UI**: Clean and contemporary design with `TailwindCSS` for rapid styling.
 -   **TypeScript**: Enhances code quality and developer experience with static type checking.
 
