@@ -15,7 +15,7 @@ This project is a modern and clean landing page designed for a SaaS product. It 
 -   **Next.js 15**: React framework for production-grade applications.
 -   **React 18**: JavaScript library for building user interfaces.
 -   **TypeScript**: Superset of JavaScript for type-safe development.
--   **TailwindCSS**: A highly customizable, utility-first CSS framework.
+-   **TailwindCSS**: A highly customisable, utility-first CSS framework.
 -   **Framer Motion**: A powerful animation library for React.
 -   **clsx**: A tiny utility for constructing `className` strings conditionally.
 
