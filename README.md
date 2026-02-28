@@ -1,23 +1,15 @@
 # SaaS Landing Page
 
-This project is a modern and clean landing page designed for a SaaS product. It is built with Next.js, React, and TailwindCSS, offering a responsive and visually appealing user interface.
+A modern and clean landing page designed for a SaaS product. Built with Next.js, React, and TailwindCSS.
 
-## Features
+## Technologies
 
--   **Responsive Design**: Adapts seamlessly to various screen sizes and devices.
--   **Interactive Components**: Utilises `framer-motion` for engaging animations and transitions.
--   **Modular Structure**: Organised into reusable components and sections for easy maintenance and scalability.
--   **Modern UI**: Clean and contemporary design with `TailwindCSS` for rapid styling.
--   **TypeScript**: Enhances code quality and developer experience with static type checking.
-
-## Technologies Used
-
--   **Next.js 15**: React framework for production-grade applications.
--   **React 18**: JavaScript library for building user interfaces.
--   **TypeScript**: Superset of JavaScript for type-safe development.
--   **TailwindCSS**: A highly customisable, utility-first CSS framework.
--   **Framer Motion**: A powerful animation library for React.
--   **clsx**: A tiny utility for constructing `className` strings conditionally.
+-   Next.js 15
+-   React 18
+-   TypeScript
+-   TailwindCSS
+-   Framer Motion
+-   clsx
 
 ## Up and Running
 
